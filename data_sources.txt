@@ -1,0 +1,8 @@
+CMU pronouncing dictionary
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+https://cmusphinx.svn.sourceforge.net/svnroot/cmusphinx/trunk/cmudict/cmudict.0.7a
+post-processing: sed '1,123d; /^{/d; /^}/d;'
+
+wiktionary download:
+http://download.wikimedia.org/enwiktionary/
+http://download.wikimedia.org/enwiktionary/20090203/enwiktionary-20090203-pages-articles.xml.bz2
